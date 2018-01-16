@@ -1,0 +1,15 @@
+{
+  "name": "parsetime-zhcn",
+  "version": "1.0.0",
+  "description": "将中文格式的时间字符串转换为Date类型",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "parsetime",
+    "str2time"
+  ],
+  "author": "Ansel Chen",
+  "license": "MIT"
+}
